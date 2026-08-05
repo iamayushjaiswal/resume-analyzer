@@ -10,3 +10,4 @@ async function connectToDb(){
         console.log(err)
     }
 }
+module.exports=connectToDb;
